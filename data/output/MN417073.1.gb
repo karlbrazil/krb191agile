@@ -1,0 +1,53 @@
+LOCUS       MN417073                 417 bp    DNA     linear   INV 15-JUL-2020
+DEFINITION  Porifera sp. R1995 0243 cytochrome oxidase subunit I (COI) gene,
+            partial cds; mitochondrial.
+ACCESSION   MN417073
+VERSION     MN417073.1
+KEYWORDS    .
+SOURCE      mitochondrion Porifera sp. R1995 0243
+  ORGANISM  Porifera sp. R1995 0243
+            Eukaryota; Metazoa; Porifera; unclassified Porifera.
+REFERENCE   1  (bases 1 to 417)
+  AUTHORS   Law,L.K., Reiswig,H.M., Ott,B.S., McDaniel,N., Kahn,A.S.,
+            Guillas,K.C., Dinn,C. and Leys,S.P.
+  TITLE     Description and distribution of Desmacella hyalina sp. nov.
+            (Porifera, Desmacellidae), a new cryptic demosponge in glass sponge
+            reefs from the western coast of Canada
+  JOURNAL   Mar Biodivers 50 (4), 55 (2020)
+REFERENCE   2  (bases 1 to 417)
+  AUTHORS   Law,L.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (05-SEP-2019) Department of Fisheries and Oceans, 343
+            Universite Ave, Moncton, NB E1C 5K4, Canada
+COMMENT     ##Assembly-Data-START##
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..417
+                     /organism="Porifera sp. R1995 0243"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /isolate="R1995 0243"
+                     /db_xref="taxon:2734788"
+                     /country="Canada"
+     gene            <1..>417
+                     /gene="COI"
+     CDS             <1..>417
+                     /gene="COI"
+                     /codon_start=1
+                     /transl_table=4
+                     /product="cytochrome oxidase subunit I"
+                     /protein_id="QJQ82267.1"
+                     /translation="MLIRLELSAPGSMLGDDHLYNVIVTAHAFVMVFFLVMPVMIGGF
+                     GNWLVPLYIGSPDMAFPRLNNISFWLLPPALTLLLGSAFVEQGAGTGWTVYPPLASIQ
+                     AHSGGSVDMAIFSLHLAGISSILGAMNFITTILNMRV"
+ORIGIN      
+        1 atgttaataa gattagagct atctgctcct ggttcaatgc ttggtgatga tcatttatat
+       61 aatgttatag taacggctca cgcttttgta atggtatttt ttttggttat gcctgtcatg
+      121 ataggaggtt tcggaaattg attggttcct ttatatattg gttcgccaga tatggctttt
+      181 cctagattaa ataatattag tttttgattg ttacctcctg ctttaacttt attattgggc
+      241 tcagcgtttg tagaacaggg agctgggaca gggtgaaccg tttacccgcc tttagcaagc
+      301 atacaagcac attctggagg atcagtagac atggcaatat ttagtcttca tttggctggg
+      361 atatcttcaa tattaggtgc aatgaatttt attactacta ttttaaatat gagggtt
+//
+

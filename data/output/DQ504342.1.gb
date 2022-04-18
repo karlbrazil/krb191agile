@@ -1,0 +1,62 @@
+LOCUS       DQ504342                1661 bp    DNA     linear   ENV 20-MAR-2007
+DEFINITION  Uncultured Porifera clone LC104_3EP_2 18S ribosomal RNA gene,
+            partial sequence.
+ACCESSION   DQ504342
+VERSION     DQ504342.1
+KEYWORDS    ENV.
+SOURCE      uncultured Porifera
+  ORGANISM  uncultured Porifera
+            Eukaryota; Metazoa; Porifera; environmental samples.
+REFERENCE   1  (bases 1 to 1661)
+  AUTHORS   Lopez-Garcia,P., Vereshchaka,A. and Moreira,D.
+  TITLE     Eukaryotic diversity associated with carbonates and fluid-seawater
+            interface in Lost City hydrothermal field
+  JOURNAL   Environ. Microbiol. 9 (2), 546-554 (2007)
+   PUBMED   17222152
+REFERENCE   2  (bases 1 to 1661)
+  AUTHORS   Lopez-Garcia,P., Vereshchaka,A. and Moreira,D.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (20-APR-2006) Ecologie, Systematique et Evolution CNRS
+            UMR 8079, Centre National de la Recherche Scientifique, Universite
+            Paris-Sud Batiment 360, Orsay 91405, France
+FEATURES             Location/Qualifiers
+     source          1..1661
+                     /organism="uncultured Porifera"
+                     /mol_type="genomic DNA"
+                     /isolation_source="Lost City"
+                     /db_xref="taxon:315288"
+                     /clone="LC104_3EP_2"
+                     /environmental_sample
+     rRNA            <1..>1661
+                     /product="18S ribosomal RNA"
+ORIGIN      
+        1 aatcagttat agtttatttg atggtcgctt actacatgga taaccgtggt aattctagag
+       61 ctaatacatg cagaaagtcc cgacttcggg gagggacgta tttattagat ccaaaaccag
+      121 tgcgggaagc cctcgcgggc tcccggtccc tgggcgagtc atgataactg ctcgaatcgc
+      181 atggccctgg cgccggcgat ggtccattca aatttctgcc ctatcaactt tcgatggtac
+      241 ggtagtggcc taccatggtt gcaacgggtg acggagaatt agggttcgat tccggagagg
+      301 gagcctgaga aacggctacc acatccaagg aaggcagcag gcgcgcaaat tacccaatcc
+      361 cgactcgggg aggtagtgac aataaataac aatgccgggc tcttgtagtc tggcaattgg
+      421 aatgagtcca atctaaaccc cttaacgagg aacaattgga gggcaagtct ggtgccagca
+      481 gccgcggtaa ttccagctcc aatagcgtat attaaagttg ttgcagttaa aaagctcgta
+      541 gttggatttc ggggcggccc ggccggtccg ccgcgaggcg agcactggtc gcgcgccctt
+      601 cctctcgaag gcttcgactg ccctttactg cggtggtcga ggagttcggg acgtttactt
+      661 tgaaaaaatt agagtgttca aggcaggccg tggcctgaat acattagcat ggaataatgg
+      721 aagaggacct cggtcctatt ttgttggttt ccagggccga agtaatgatt gagagggaca
+      781 gctgggggca ttcgtattta attgtcagag gtgaaattct cggatttctg aaagacgaac
+      841 aagtgcgaaa gcatttgcca aggatgtttt cattaatcaa gaacgaaagt tgggggttcg
+      901 aagacgatca gataccgtcg tagtccccaa ccataaacta tgccgactag ggatcggcgg
+      961 atgttagcgt ctgactccgt cggcaccttg cgagaaatca agagtctttg ggttccgggg
+     1021 ggagtatggt cgcaaggctg aaacttaaag gaattgacgg aagggcacca ccaggagtgg
+     1081 agcctgcggc ttaatttgac tcaacacggg gaaactcacc aggtccggac atggtaagga
+     1141 ttgacagatc gagagctctt tcttgattct atgggtggtg gtgcatggcc gttcttagtt
+     1201 ggtggagtga tttgtctggt taattccgtt aacgaacgag accttaacct gctaactagt
+     1261 cacgtcgttc ccgaacggcg gtcgacttct tagagggaca accggccccg aagccggcgg
+     1321 aagtctgagg caataacagg tctgtgatgc ccttagatgt tctgggccgc acgcgcgcta
+     1381 cactgacgga ggcagcgagc atgtccttcg ccgtcaggtg cggggaatct tgtgaaactc
+     1441 cgtcgtgctg gggacagatc attgcaattt tcgatctcga acgaggaatt cctagtaagc
+     1501 gcgagtcagc agctcgcgtt gattacgtcc ctgccctttg tacacaccgc ccgtcgctac
+     1561 tacagattga atggttcagt gagaccttcg gattggagcc gtcgtgacgg gcaaccgccg
+     1621 cgttggattt cgaagattcg gccgactcga tcattagata a
+//
+

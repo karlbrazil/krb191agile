@@ -1,0 +1,59 @@
+LOCUS       HM592750                 658 bp    DNA     linear   INV 27-NOV-2020
+DEFINITION  Stelletta dorsigera voucher MNHN:Porifera, unaccessioned cytochrome
+            c oxidase subunit I (COI) gene, partial cds; mitochondrial.
+ACCESSION   HM592750
+VERSION     HM592750.1
+KEYWORDS    .
+SOURCE      mitochondrion Stelletta dorsigera
+  ORGANISM  Stelletta dorsigera
+            Eukaryota; Metazoa; Porifera; Demospongiae; Heteroscleromorpha;
+            Tetractinellida; Astrophorina; Ancorinidae; Stelletta.
+REFERENCE   1  (bases 1 to 658)
+  AUTHORS   Cardenas,P., Xavier,J.R., Reveillaud,J., Schander,C. and Rapp,H.T.
+  TITLE     Molecular phylogeny of the Astrophorida (Porifera, Demospongiae(p))
+            reveals an unexpected high level of spicule homoplasy
+  JOURNAL   PLoS ONE 6 (4), E18318 (2011)
+   PUBMED   21494664
+  REMARK    Publication Status: Online-Only
+REFERENCE   2  (bases 1 to 658)
+  AUTHORS   Cardenas,P., Xavier,J., Reveillaud,J., Schander,C. and Rapp,H.T.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (23-JUN-2010) Department of Biology, University of
+            Bergen, PO Box#7803, Bergen 5020, Norway
+FEATURES             Location/Qualifiers
+     source          1..658
+                     /organism="Stelletta dorsigera"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /specimen_voucher="MNHN:Porifera, unaccessioned"
+                     /db_xref="taxon:861209"
+                     /country="Mediterranean Sea"
+                     /collection_date="Oct-1994"
+                     /identified_by="Paco Cardenas"
+     gene            <1..>658
+                     /gene="COI"
+     CDS             <1..>658
+                     /gene="COI"
+                     /codon_start=2
+                     /transl_table=4
+                     /product="cytochrome c oxidase subunit I"
+                     /protein_id="AEB72115.1"
+                     /translation="TLYLLFGAFSGMIGTGFSFLIRLELSAPGSMLGDDHLYNVIITA
+                     HGLIMIFFLVMPVMIGGFGNWFVPLYIGAPDMAFPRLNNISFWVLPPSLILLLGSAFV
+                     EQGVGAGWTVYPPLSSVQAHSGGSVDAAIFSLHLAGISSILGSMNFITTIFNMRAPGI
+                     TMDRLPLFVWSILVTTYLLILSLPVLAGAITMLLTDRNFNTTFFDPAGGGDPILFQHL
+                     F"
+ORIGIN      
+        1 gactttatat ttattatttg gtgctttttc aggtatgata ggaacagggt ttagtttctt
+       61 aattagactt gaattatcag ctcccggatc aatgttgggg gatgaccatc tttataatgt
+      121 tataattact gctcatggtc ttataatgat ttttttcttg gttatgccgg ttatgattgg
+      181 ggggtttggt aattgatttg tccctctcta tattggggcc ccagatatgg cttttccaag
+      241 attaaataat attagttttt gagtgttacc tccctcatta atattattat taggctcagc
+      301 ttttgttgaa cagggggttg gtgccggatg aacagtttat cctcctttat cgagtgtaca
+      361 agctcattct gggggttcgg ttgatgcggc gatatttagt cttcatttgg ccgggatttc
+      421 atcaatctta gggtcaatga attttattac tactattttt aatatgcggg cacctggtat
+      481 tacgatggat agactgcctt tatttgtttg gtcaatttta gtaacaactt atcttttaat
+      541 attatcttta cctgtattgg caggtgctat aactatgctt ttaacagaca gaaattttaa
+      601 tacaaccttt ttcgatccgg caggcggagg ggacccaata ttatttcagc atttattc
+//
+

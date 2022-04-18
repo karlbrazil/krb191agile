@@ -1,0 +1,52 @@
+LOCUS       HM592772                 818 bp    DNA     linear   INV 20-JUN-2014
+DEFINITION  Poecillastra amygdaloides voucher MNHN:Porifera, unaccessioned 28S
+            large subunit ribosomal RNA gene, partial sequence.
+ACCESSION   HM592772
+VERSION     HM592772.1
+KEYWORDS    .
+SOURCE      Poecillastra amygdaloides
+  ORGANISM  Poecillastra amygdaloides
+            Eukaryota; Metazoa; Porifera; Demospongiae; Heteroscleromorpha;
+            Tetractinellida; Astrophorina; Vulcanellidae; Poecillastra.
+REFERENCE   1  (bases 1 to 818)
+  AUTHORS   Cardenas,P., Xavier,J.R., Reveillaud,J., Schander,C. and Rapp,H.T.
+  TITLE     Molecular phylogeny of the Astrophorida (Porifera, Demospongiae(p))
+            reveals an unexpected high level of spicule homoplasy
+  JOURNAL   PLoS ONE 6 (4), E18318 (2011)
+   PUBMED   21494664
+  REMARK    Publication Status: Online-Only
+REFERENCE   2  (bases 1 to 818)
+  AUTHORS   Cardenas,P., Xavier,J., Reveillaud,J., Schander,C. and Rapp,H.T.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (29-JUN-2010) Department of Biology, University of
+            Bergen, PO Box#7803, Bergen 5020, Norway
+FEATURES             Location/Qualifiers
+     source          1..818
+                     /organism="Poecillastra amygdaloides"
+                     /mol_type="genomic DNA"
+                     /specimen_voucher="MNHN:Porifera, unaccessioned"
+                     /db_xref="taxon:1006804"
+                     /country="Italy: Southern Italy"
+                     /collection_date="2007"
+                     /collected_by="Julie Reveillaud"
+                     /identified_by="Paco Cardenas"
+     rRNA            <1..>818
+                     /product="28S large subunit ribosomal RNA"
+                     /note="C1-D2 domains"
+ORIGIN      
+        1 atcaataagc ggaggaaaag caactaacca ggattccccc agtaacggcg agcgaagcgg
+       61 gaagagctcg agcaggcaat ctctggtgtc gatcgccagc gaattgtggc cggcagaggc
+      121 ggatgcaccc gacgcgaccc cgtcgaagtt gacctggaaa ggcacgtcgg agagggtgat
+      181 agccccgtgc ggggcggagt cgccgagggc cgctaccgtc ttcggagagt cgggttgttt
+      241 gggagtgcag cccaaagtgg gtggtaaact ccatctaaag ccaaataacg gcacgagacc
+      301 gatagcgaac aagtaccatg agggaaaggt gaaaagcact ttggaaagag agttaaagag
+      361 gccgcgaaac cgttgggagg gaaacgcatg cagccgaacg ggcccgcgtc gagttcaggg
+      421 gggccgcgag gagccccgcg cgccgtcggc acccatcgcg ggtcgacggt gcgccgaggt
+      481 tcgtcgtacc cctgcactct cggcggcaag ggccggccaa gtgcggcggg ttggcgggcg
+      541 aggagcacgc gtcgggaagg tagcgcagcc gtcgtccttc ggggcacgga ggcgaactta
+      601 gagccgatcg tgcggagcgt ccggcgccca ccgaggagag cggtgtcatt tccacccccg
+      661 tagcgcaggt ccgcctctcg gcggccggag cgctcccgtc cgttcggcga tcgtgccggg
+      721 gactgcgtgc agtgtccggt ctcggctcgt ccgtccgggt gggaggcggt ctcacgcctt
+      781 gcgctgtggt cgcttggcca gccgtcggct gcattcga
+//
+

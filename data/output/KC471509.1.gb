@@ -1,0 +1,52 @@
+LOCUS       KC471509                 625 bp    DNA     linear   INV 08-NOV-2014
+DEFINITION  Porifera sp. Sp08 28S ribosomal RNA gene, partial sequence.
+ACCESSION   KC471509
+VERSION     KC471509.1
+KEYWORDS    .
+SOURCE      Porifera sp. Sp08
+  ORGANISM  Porifera sp. Sp08
+            Eukaryota; Metazoa; Porifera; unclassified Porifera.
+REFERENCE   1  (bases 1 to 625)
+  AUTHORS   Walmsley,T.A.
+  TITLE     Exploring the link between secondary metabolite production and
+            microbial diversity in Algoa Bay Latrunculid sponges
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 625)
+  AUTHORS   Walmsley,T.A.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (11-JAN-2013) Biochemistry, Microbiology and
+            Biotechnology, Rhodes University, Corner of Prince Alfred and
+            Artillery Rd, Grahamstown, Eastern Cape 1940, South Africa
+COMMENT     ##Assembly-Data-START##
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..625
+                     /organism="Porifera sp. Sp08"
+                     /mol_type="genomic DNA"
+                     /specimen_voucher="Sp08"
+                     /db_xref="taxon:1562933"
+                     /country="South Africa"
+                     /lat_lon="33.8430 S 25.8165 E"
+                     /collection_date="01-May-2010"
+                     /collected_by="S. Parker-Nance"
+                     /identified_by="T. Samaai"
+                     /PCR_primers="fwd_name: rd3a, fwd_seq:
+                     gacccgtcttgaaacacga, rev_name: rd5b2, rev_seq:
+                     acacactccttagcgga"
+     rRNA            <1..>625
+                     /product="28S ribosomal RNA"
+ORIGIN      
+        1 accaaggagt gcaacgtgcg cgcgagtctt tgggtggcaa acccctcggc gcagtgaaag
+       61 cggaagcggg cctcgcgccc gccgtggcga gagccccgga actcccgggg cgcatcgtcg
+      121 accgatcccg ttccacgctg tggtgggatt tgagtgagag cgtgcctgtt gcgacccgaa
+      181 agatggtgaa ctatgcctga atagggcgaa gccaggggaa accctggtgg aagcccgcag
+      241 cgattctgac gtgcaaatcg atcgtcaaat ttgggtatag gggcgaaaga ctaatcgaac
+      301 cgtctagtag ctggttccct ccgaagtttc cctcaggata gctggagccc ggtgcagttt
+      361 tatcaggtaa agcgaatgat tagaggtctt ggggtcgaaa cgacttcaac ctattctcaa
+      421 actttaaatg ggtaagaggt ccggcttgct cggttgaagt cggacgtgga atgccggggc
+      481 tcctagtggg ccatttttgg taagcagaac tggcgatgtg ggatgaaccg aaagccgggt
+      541 taaggtgccc gaatcgacgc tcatcagatc ccatgaaagg tgttggttga tacagacagc
+      601 aggacggtgg ccatggaagt cggaa
+//
+

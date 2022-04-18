@@ -1,0 +1,98 @@
+LOCUS       AJ622898                2651 bp    DNA     linear   INV 27-JUL-2004
+DEFINITION  Leucosolenia sp. QN-2004-1 18S rRNA gene (partial), 5.8S rRNA gene,
+            ITS1, 28S rRNA gene, and ITS2.
+ACCESSION   AJ622898
+VERSION     AJ622898.1
+KEYWORDS    18S ribosomal RNA; 18S rRNA gene; 28S ribosomal RNA; 28S rRNA gene;
+            5.8S ribosomal RNA; 5.8S rRNA gene; internal transcribed spacer 1;
+            internal transcribed spacer 2; ITS1; ITS2.
+SOURCE      Leucosolenia sp. QN-2004-1
+  ORGANISM  Leucosolenia sp. QN-2004-1
+            Eukaryota; Metazoa; Porifera; Calcarea; Calcaronea; Leucosolenida;
+            Leucosoleniidae; Leucosolenia; unclassified Leucosolenia.
+REFERENCE   1
+  AUTHORS   Nie,Q., Crosbie,N. and Hess,W.
+  TITLE     Towards a DNA-based system for the identification of Porifera
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 2651)
+  AUTHORS   Nie,Q.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (27-JAN-2004) Nie Q., Marine Invertebrate Research, Ocean
+            Genome Legacy Foundation, 32 Tozer Rd, Beverly, MA, 01915, USA
+FEATURES             Location/Qualifiers
+     source          1..2651
+                     /organism="Leucosolenia sp. QN-2004-1"
+                     /mol_type="genomic DNA"
+                     /isolate="QN-2004-1"
+                     /isolation_source="coastal water"
+                     /db_xref="taxon:262295"
+                     /country="USA:Massachusetts coast"
+                     /note="Eukaryota; Metazoa; Porifera; Demospongiae;
+                     Ceractinomorpha; Verongida;Aplysinidae; Aiolochroia"
+     gene            <1..1791
+                     /gene="18S rRNA"
+     rRNA            <1..1791
+                     /gene="18S rRNA"
+                     /product="18S ribosomal RNA"
+     misc_feature    1792..2184
+                     /note="internal transcribed spacer 1, ITS1"
+     gene            2185..2338
+                     /gene="5.8S rRNA"
+     rRNA            2185..2338
+                     /gene="5.8S rRNA"
+                     /product="5.8S ribosomal RNA"
+     misc_feature    2339..2619
+                     /note="internal transcribed spacer 2, ITS2"
+     gene            2620..2651
+                     /gene="28S rRNA"
+     rRNA            2620..2651
+                     /gene="28S rRNA"
+                     /product="28S ribosomal RNA"
+ORIGIN      
+        1 agtcatatgc tgtctcaaag attaagccat gcatgtctaa gtataagcgc tcttatactg
+       61 tgaaactgcg aatggctcat taaatcagtt atagtttatt tgatgttgac ttactacttg
+      121 gataaccgtg gtaattctag agctaataca tgcgttaaag tcctgacctc tcggggaagg
+      181 gatgtattta ttagatccaa aaccgatgca gtcgaaaggc tggttgttgg tgattcatga
+      241 taactgaacg gatcgcatgg tcttgtgccg gcgatgactc attcaaattt ctgccctatc
+      301 aactttcgat ggtaaggtag tggcttacca tggttgcaac gggtaacgga gaattagggt
+      361 tcgattccgg agagggagcc tgagaaacgg ctaccacatc caaggaaggc agcaggcgcg
+      421 caaattaccc aatcccgaca cggggaggta gtgacgataa ataacaatgc aggactctaa
+      481 cgagtcttgc aattggaatg agaacaattt aaacccctta acgaggaaca attggagggc
+      541 aagtctggtg ccagcagccg cggtaattcc agctccaata gcgtatatta aagttgttgc
+      601 agttaaaaag ctcgtagttg gatttcggag cggagctcac ggtccgcctt tttgggtgtg
+      661 cactgtgctg ttctgttctt cttctcgtgg agcgtgcgtg ctcttcgttg agtgtgtacg
+      721 taactcggga cttttacttt gaaaaaatta gagtgttcaa agcaggcctt ggcttgaata
+      781 cattagcatg gaataatgaa ataggacttt ggttctattt tgttggtttt cggaaccaag
+      841 gtaatgacta atagggacag ttgggggcat tcgtattcaa ttgtcagagg tgaaattctt
+      901 ggatttatgg aagacgaaca actgcgaaag catttgccaa ggatgttttc attaatcaag
+      961 aacgaaagtt ggaggttcga agacgatcag ataccgtcgt agttccaacc ataaacgatg
+     1021 ccgactaggg atcggtggat gttatttaat gactccatcg gcaccttatg agaaatcaaa
+     1081 gtttttgggt tccgggggga gtataatcgc aagatcggaa cttaaaggaa ttgacggaag
+     1141 ggcaccacca ggagtggagc ctgcggctta atttgactca acacggggaa actcaccagg
+     1201 tccagacata gtaaggattg acagattgag agctctttct tgattctatg ggtggtggtg
+     1261 catggccgtt cttagttggt ggagtgattt gtctggttaa ttccgttaac gaacgagacc
+     1321 ttaacctgct aaatagttac gcgattctcg aatcgcggtc aacttcttag agggactatt
+     1381 ggtgtttaac cgatggaagt ttgaggcaat aacaggtctg tgatgccctt agatgttctg
+     1441 ggccgcacgc gcgctacact gatgaagtca gcgagttctt ccttcaccga taggtgtggg
+     1501 taatcttttg aaacttcatc gtgctgggga tagaccattg caattattgg tcttcaacga
+     1561 ggaattccta gtaagcgcaa gtcatcagct tgcgttgatt acgtccctgc cctttgtaca
+     1621 caccgcccgt cgctactacc gattgaatgg tttagtgaga tcttcggatt gctagttcgg
+     1681 cggcctcgtg ttgccgagca taacgagaag ttgatcaaac ttgatcattt agaggaagta
+     1741 aaagtcgtaa caaggtttcc gtaggtgaac ctgcggaagg atcattaacg ttgttgctgc
+     1801 cgtttgcgcc acttgctggt gtcgactggt cgcaatcttc gtaccactgt gcacctggtt
+     1861 gagatcgtgc agcgcagtga cctcgtgtcc gtgctgtagg atcggccgct ctgatcgagc
+     1921 ggtgcgcgcg ccttcggggt tacctcccgt gccgcctagc gtgtggtgga ggtcttaaat
+     1981 gaggtcgaac ttcctcgaaa gaggtgcgtc gtgccttggc cccaagacgt gtgtgcctgt
+     2041 tcagagtggt ttgcgccttc ccctcgctcg cccactgcgg tgggtggcga gggacccttt
+     2101 ttcatcacta gcacatttgc aggcagaacc gaacacaggc gctctttgca cgcttgcgtg
+     2161 acgagagcga atggaacttg aaagacaact tttaacggtg gatctcttgg cttgtggatc
+     2221 gatgaagaac gcagcaaact gcgatacgta gtgtgaattg cagaattcag tgaatcatcg
+     2281 aatctttgaa cgcaaattgc gctcctggtt cttgcccgga gcacgtctgt ctcagtgtcg
+     2341 ttttcttctc gagcacgctt cggcgtggtt gacttgaggt gtctggcctg ctgcgaagcg
+     2401 gttcagtccc ttgaaaagtc ttggagtggc ccctccgctc actgcttgct gctcagctgg
+     2461 cacggctgct gcgtgtgctc acgctcgtcg tgcttctcag ctcagcggcg tttcagggca
+     2521 tgagctttat gcgaggtggt ccacattcca gctgtgaaac gtacacacac caaaatgaag
+     2581 gtcccgtgac gcggcgcttg ttgctcgcgg tgtccatttt gacctgagat cagtcgagac
+     2641 tacccgctga a
+//
+

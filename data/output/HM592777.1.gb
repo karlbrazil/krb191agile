@@ -1,0 +1,52 @@
+LOCUS       HM592777                 811 bp    DNA     linear   INV 20-JUN-2014
+DEFINITION  Triptolemma intextum voucher MNHN:Porifera, unaccessioned 28S large
+            subunit ribosomal RNA gene, partial sequence.
+ACCESSION   HM592777
+VERSION     HM592777.1
+KEYWORDS    .
+SOURCE      Triptolemma intextum
+  ORGANISM  Triptolemma intextum
+            Eukaryota; Metazoa; Porifera; Demospongiae; Heteroscleromorpha;
+            Tetractinellida; Astrophorina; Pachastrellidae; Triptolemma.
+REFERENCE   1  (bases 1 to 811)
+  AUTHORS   Cardenas,P., Xavier,J.R., Reveillaud,J., Schander,C. and Rapp,H.T.
+  TITLE     Molecular phylogeny of the Astrophorida (Porifera, Demospongiae(p))
+            reveals an unexpected high level of spicule homoplasy
+  JOURNAL   PLoS ONE 6 (4), E18318 (2011)
+   PUBMED   21494664
+  REMARK    Publication Status: Online-Only
+REFERENCE   2  (bases 1 to 811)
+  AUTHORS   Cardenas,P., Xavier,J., Reveillaud,J., Schander,C. and Rapp,H.T.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (29-JUN-2010) Department of Biology, University of
+            Bergen, PO Box#7803, Bergen 5020, Norway
+FEATURES             Location/Qualifiers
+     source          1..811
+                     /organism="Triptolemma intextum"
+                     /mol_type="genomic DNA"
+                     /specimen_voucher="MNHN:Porifera, unaccessioned"
+                     /db_xref="taxon:1006840"
+                     /country="Italy: Southern Italy"
+                     /collection_date="2007"
+                     /collected_by="Julie Reveillaud"
+                     /identified_by="Paco Cardenas"
+     rRNA            <1..>811
+                     /product="28S large subunit ribosomal RNA"
+                     /note="C1-D2 domains"
+ORIGIN      
+        1 tcaataagcg gaggaaaagc aactaaccag gattccccca gtaacggcga gcgaagcggg
+       61 aatagctcga gcaggcaatc tctggtgtcg atcgccagcg aattgtggcc ggcagaggcg
+      121 gatgcacccg acgcgacccc gccgaagttg acctggaaag gcacgtcgga gagggtgata
+      181 gccccgtgcg tggcggagtc gccgagggcc gctaccgtct tcggagagtc gggttgtttg
+      241 ggagtgcagc ccaaagtggg tggtaaactc catctaaagc caaataacgg cacgagaccg
+      301 atagcgaaca agtaccatga gggaaaggtg aaaagcactt tggaaagaga gttaaagagg
+      361 ccgcgaaacc gttgggaggg aaacgcatgc agccgaaccg gcccgcgtcg agttcagggg
+      421 gccgcggacg atcccgcgtg cggtcgacac ccctgtgggt cgtccgtgcg tcgaggtcgg
+      481 ccgttcccct gcactctcgg cggcaagggc cggccaagtg cggcgggttc cgggcgagga
+      541 gcgcgcgtcg ggcaggtggc gcagccgtcc ttcggggcgg aggcgaactt acagccgacc
+      601 gtgcggagcg tccgacaccc accgaggaga gcggtggcgt ttccaccccc gtagcgcagg
+      661 tccgcttttc tgcggccggg gccctctcgt ccgttcgacg agcgtgccga gtcactgcgt
+      721 gcagtgtccg gccacggttt cgttcgtccg ggcgggcggt cgtcccacgc cttgcgctgt
+      781 ggtcgcttgg ctagccgtcg gctgcattcg a
+//
+

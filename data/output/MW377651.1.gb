@@ -1,0 +1,43 @@
+LOCUS       MW377651                 630 bp    DNA     linear   INV 22-DEC-2020
+DEFINITION  Porifera sp. SI-110Y large subunit ribosomal RNA gene, partial
+            sequence.
+ACCESSION   MW377651
+VERSION     MW377651.1
+KEYWORDS    .
+SOURCE      Porifera sp. SI-110Y
+  ORGANISM  Porifera sp. SI-110Y
+            Eukaryota; Metazoa; Porifera; unclassified Porifera.
+REFERENCE   1  (bases 1 to 630)
+  AUTHORS   Mohanty,I., Agarwal,V. and Garg,N.
+  TITLE     Multi-omic profiling of Bromotyrosine sponges
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 630)
+  AUTHORS   Mohanty,I.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (17-DEC-2020) Chemistry & Biochemistry, Georgia Institute
+            of Technology, 901 Atlantic Dr, Atlanta, GA 30332, USA
+COMMENT     ##Assembly-Data-START##
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..630
+                     /organism="Porifera sp. SI-110Y"
+                     /mol_type="genomic DNA"
+                     /specimen_voucher="SI-110Y-28S"
+                     /db_xref="taxon:2797516"
+     rRNA            <1..>630
+                     /product="large subunit ribosomal RNA"
+ORIGIN      
+        1 tgacccgaaa gatggtgaac tatgcctgaa tagggtgaag ccagaggaaa ctctggtgga
+       61 agctcgcagc gattctgacg tgcaaatcga tcgtcaaatt tgggtatagg ggcgaaagac
+      121 taatcgaacc atctagtagc tggttccctc cgaagtttcc ctcaggatag ctggagcccg
+      181 gtgcagtttt atcaggtaaa gcgaatgatt agaggtcttg gggttgcaac aacctcaacc
+      241 tattctcaaa ctttaaatgg gtaagaagcc cggcttgctt ggctgaagtc gggcgcagaa
+      301 tgccggggct cctagtgggc catttttggt aagcagaact ggcgatgtgg gatgaaccaa
+      361 atgccgggtt aaggtgcccg aatcgacgct catcagatcc catgaaaggt gttggttgat
+      421 atagacagca ggacggtggc catggaagtc ggaatccgct aaggagtgtg taacaactca
+      481 cctgccgaat caactagccc tgaaaatgga tggcgctcaa gtgtcgtacc catacccggc
+      541 cgtcgggtcg agaggccgga ctcgacgtgt aggagggcgc ggtggtggcc gtgcagcctc
+      601 tggcgcgagc ctgggtgaag ccgccaccgg
+//
+

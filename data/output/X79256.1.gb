@@ -1,0 +1,46 @@
+LOCUS       X79256                    99 bp    DNA     linear   INV 26-JUL-2016
+DEFINITION  T.aurantia (Porifera) SpTth-ets-1 gene.
+ACCESSION   X79256
+VERSION     X79256.1
+KEYWORDS    ets gene family; ets protein; ets-1 gene.
+SOURCE      Tethya aurantium (orange puffball sponge)
+  ORGANISM  Tethya aurantium
+            Eukaryota; Metazoa; Porifera; Demospongiae; Heteroscleromorpha;
+            Tethyida; Tethyidae; Tethya.
+REFERENCE   1
+  AUTHORS   Degnan,B.M., Degnan,S.M., Naganuma,T. and Morse,D.E.
+  TITLE     The ets multigene family is conserved throughout the Metazoa
+  JOURNAL   Nucleic Acids Res. 21 (15), 3479-3484 (1993)
+   PUBMED   8346026
+REFERENCE   2  (bases 1 to 99)
+  AUTHORS   Degnan,B.M.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (16-MAY-1994) B.M. Degnan, University of Queensland, Dept
+            of Zoology, Brisbane, Queensland 4072, AUSTRALIA
+FEATURES             Location/Qualifiers
+     source          1..99
+                     /organism="Tethya aurantium"
+                     /mol_type="genomic DNA"
+                     /db_xref="taxon:281732"
+                     /dev_stage="adult"
+     gene            <1..>99
+                     /gene="ets-1"
+     CDS             <1..>99
+                     /gene="ets-1"
+                     /codon_start=1
+                     /product="ETS-1 protein"
+                     /protein_id="CAA55843.1"
+                     /db_xref="GOA:Q26672"
+                     /db_xref="HSSP:1DUX"
+                     /db_xref="InterPro:IPR000418"
+                     /db_xref="InterPro:IPR011991"
+                     /db_xref="UniProtKB/TrEMBL:Q26672"
+                     /translation="FKFNNSEEVARMWGLRKNKTNMNYDKLSRALRY"
+     misc_feature    33..65
+                     /gene="ets-1"
+                     /note="partial ETS domain sequence"
+ORIGIN      
+        1 ttcaagttca acaactcgga ggaggtggcc cggatgtggg gcctccgcaa gaacaagacc
+       61 aacatgaact acgacaaact cagccgcgcc ctgcgctac
+//
+

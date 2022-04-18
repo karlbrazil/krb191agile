@@ -1,0 +1,59 @@
+LOCUS       AY857337                 671 bp    DNA     linear   ENV 24-JUL-2018
+DEFINITION  Uncultured Porifera clone 227O polyketide synthase (PKS) gene,
+            partial cds.
+ACCESSION   AY857337
+VERSION     AY857337.1
+KEYWORDS    ENV.
+SOURCE      uncultured Porifera
+  ORGANISM  uncultured Porifera
+            Eukaryota; Metazoa; Porifera; environmental samples.
+REFERENCE   1  (bases 1 to 671)
+  AUTHORS   Peterson,C.L., Pomponi,S.A., McCarthy,P.J., Wright,A.E. and
+            Lopez,J.V.
+  TITLE     Polyketide synthase and fatty acid synthase sequences derived from
+            marine sponges and their microbial symbionts
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 671)
+  AUTHORS   Peterson,C.L., Pomponi,S.A., McCarthy,P.J., Wright,A.E. and
+            Lopez,J.V.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (14-DEC-2004) Division of Biomedical Marine Research,
+            Harbor Branch Oceanographic Institution, 5600 US 1 North, Ft
+            Pierce, FL 34946, USA
+FEATURES             Location/Qualifiers
+     source          1..671
+                     /organism="uncultured Porifera"
+                     /mol_type="genomic DNA"
+                     /db_xref="taxon:315288"
+                     /clone="227O"
+                     /environmental_sample
+     gene            <1..>671
+                     /gene="PKS"
+     mRNA            <1..>671
+                     /gene="PKS"
+                     /product="polyketide synthase"
+     CDS             <1..>671
+                     /gene="PKS"
+                     /codon_start=1
+                     /product="polyketide synthase"
+                     /protein_id="AAX62303.1"
+                     /translation="REALQMDPQQRLVLETSYRALENAGITMEQVARSKTCVFTGSFG
+                     HDYETLQNKDLQAMCKFSATGTSMNMQSNRVSWFFNLNGPSATVDTACSSSLMAVDLT
+                     CQSIWSGDSKMGMAIGSNTILALETGLILDNLGLMSPDSRCYSFDSRGNGYARGEGVG
+                     VLVIKPVEDALRDGDTIRAVIRSSASNQDGRTPGITLPSIEMQETLIRDTYRKGGLDM
+                     SETRY"
+ORIGIN      
+        1 cgggaagcgt tgcagatgga cccgcagcag cgactagtac tcgagacgtc ctaccgagcc
+       61 ctcgagaatg ccggcatcac catggaacag gtagcccgct cgaaaacgtg cgtcttcaca
+      121 gggtccttcg gccacgacta cgagacgctc cagaacaagg acctacaggc gatgtgcaag
+      181 ttctcagcca cagggacatc catgaacatg caatccaacc gagtcagctg gttcttcaac
+      241 ctcaatggac ccagtgcaac cgttgataca gcctgctcga gcagtttgat ggcagtcgac
+      301 ctcacctgtc agtcaatctg gagcggcgac tcaaagatgg gcatggcgat cggaagcaac
+      361 acgatcctgg ctctggaaac gggcctcatc ctcgataacc taggtcttat gtctccagat
+      421 tcccggtgtt atagcttcga cagtcgtgga aatgggtatg cccggggtga gggtgttgga
+      481 gtgctggtta tcaagcctgt ggaggatgcc ctccgcgacg gcgacacgat ccgagctgtt
+      541 atccggtctt ctgcatcgaa tcaagacggg aggactccgg gaatcacact gccgagtata
+      601 gaaatgcaag agacgcttat ccgggataca taccgcaagg gaggtctcga tatgtccgag
+      661 actcgctatt t
+//
+

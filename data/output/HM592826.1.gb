@@ -1,0 +1,52 @@
+LOCUS       HM592826                 813 bp    DNA     linear   INV 20-JUN-2014
+DEFINITION  Calthropella geodioides voucher MNHN:Porifera, unaccessioned 28S
+            large subunit ribosomal RNA gene, partial sequence.
+ACCESSION   HM592826
+VERSION     HM592826.1
+KEYWORDS    .
+SOURCE      Calthropella geodioides
+  ORGANISM  Calthropella geodioides
+            Eukaryota; Metazoa; Porifera; Demospongiae; Heteroscleromorpha;
+            Tetractinellida; Astrophorina; Calthropellidae; Calthropella.
+REFERENCE   1  (bases 1 to 813)
+  AUTHORS   Cardenas,P., Xavier,J.R., Reveillaud,J., Schander,C. and Rapp,H.T.
+  TITLE     Molecular phylogeny of the Astrophorida (Porifera, Demospongiae(p))
+            reveals an unexpected high level of spicule homoplasy
+  JOURNAL   PLoS ONE 6 (4), E18318 (2011)
+   PUBMED   21494664
+  REMARK    Publication Status: Online-Only
+REFERENCE   2  (bases 1 to 813)
+  AUTHORS   Cardenas,P., Xavier,J., Reveillaud,J., Schander,C. and Rapp,H.T.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (29-JUN-2010) Department of Biology, University of
+            Bergen, PO Box#7803, Bergen 5020, Norway
+FEATURES             Location/Qualifiers
+     source          1..813
+                     /organism="Calthropella geodioides"
+                     /mol_type="genomic DNA"
+                     /specimen_voucher="MNHN:Porifera, unaccessioned"
+                     /db_xref="taxon:1006834"
+                     /country="Italy: southern Italy"
+                     /collection_date="2007"
+                     /collected_by="Julie Reveillaud"
+                     /identified_by="Paco Cardenas"
+     rRNA            <1..>813
+                     /product="28S large subunit ribosomal RNA"
+                     /note="C1-D2 domains"
+ORIGIN      
+        1 atcaataagc ggaggaaaag caactaacca ggattccccc agtaacggcg agcgaagcgg
+       61 gaacagctcg agcaggcaat ctctggtgtc gatcgccagc gaattgtggc cggcagaggt
+      121 ggatgcacct gacgcgactc cgtcgaagtt gacctggaaa ggcacgtcgg agagggtgat
+      181 agccccgtgc gtggcggagt cgtcgacggc cgctaccgtc ttcgaagagt cgggttgttt
+      241 gggagtgcag cccaaagtgg gtggtaaact ccatctaaag ccaaataacg gcacgagacc
+      301 gatagcgaac aagtaccatg agggaaaggt gaaaagcact ttggaaagag agttaaagag
+      361 gccgcgaaac cgttgggagg gaaacgcatg cagccgaacg ggcccgcgtc gagttcaggg
+      421 ggctgcgagc agtcccacgt gcggtcggca cccccgtggg tcggtcgtgc gtcgtggtcg
+      481 ttcgcgcccc tgcactctcg gcgacgaggg ccggccaagt gcggcgggtt ccgggcgagg
+      541 agtgcgtgtc gggcaggtag cgcagccgcc tctttcgaga ggtggaggcg aacttacagc
+      601 cgatcgcgcg gagcgtccgg cgcccaccga ggagagcggt ggcacttcca cccccgtagc
+      661 gtaggtccgc ttcggcggcc ggggcgctcc cgtccgttcg atgcgtccgc gtcgagtcac
+      721 tgcccgcagt gcccgacgtg gatcgccgtc cgggtaggag gtcgtctcac gccttgcgct
+      781 tcggtcgctc ggctagccgt cggctgcatt cga
+//
+

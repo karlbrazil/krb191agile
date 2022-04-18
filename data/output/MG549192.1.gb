@@ -1,0 +1,44 @@
+LOCUS       MG549192                 471 bp    DNA     linear   INV 01-DEC-2018
+DEFINITION  Porifera sp. YM30058 small subunit ribosomal RNA gene, partial
+            sequence; mitochondrial.
+ACCESSION   MG549192
+VERSION     MG549192.1
+KEYWORDS    .
+SOURCE      mitochondrion Porifera sp. YM30058
+  ORGANISM  Porifera sp. YM30058
+            Eukaryota; Metazoa; Porifera; unclassified Porifera.
+REFERENCE   1  (bases 1 to 471)
+  AUTHORS   Gong,L.
+  TITLE     A new species of Euplectellidae (Porifera: Hexactinellida:
+            Lyssacinosida) from the northwestern Pacific Ocean
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 471)
+  AUTHORS   Gong,L.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (19-NOV-2017) Institute of Oceanology, Chinese Academy of
+            Sciences, Nanhai, Qingdao, Shandong 266071, China
+COMMENT     ##Assembly-Data-START##
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..471
+                     /organism="Porifera sp. YM30058"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /specimen_voucher="YM30058"
+                     /db_xref="taxon:2054876"
+                     /lat_lon="8.9123 N 137.802 E"
+                     /collection_date="18-Dec-2014"
+     rRNA            <1..>471
+                     /product="small subunit ribosomal RNA"
+ORIGIN      
+        1 ccaaaaacat agctaataga aaaaattatt attagtgatg cctgctcaat gattgaacaa
+       61 taacaaacaa caacaattaa atagccgcgg taacacttga ccgtgcaaag gtagcataat
+      121 aaatagccta ctaattatag gatagaatga aggtaaaacg aagacccaac tgtctcaaga
+      181 ccctaaattt aaaatagaat gtgtgtgtaa atccacacta aaacggcaag acgattagac
+      241 cctaagaact ttacccaaag ctttaaatac aataaagctc taagtttcgt tggggcaacg
+      301 atctttaaaa aagtaactaa gaataactaa tcatacaaca aaaactaaca taatttcaaa
+      361 aagataaaac ccattaacaa aaaaattaat gaaaaaaaat aaaagttcct tagggataac
+      421 agcgtcatat cgttcttcag aaaataacca aacgatgttt gcgacctcga t
+//
+

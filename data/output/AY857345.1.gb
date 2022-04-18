@@ -1,0 +1,60 @@
+LOCUS       AY857345                 734 bp    DNA     linear   ENV 24-JUL-2018
+DEFINITION  Uncultured Porifera clone 223I polyketide synthase (PKS) gene,
+            partial cds.
+ACCESSION   AY857345
+VERSION     AY857345.1
+KEYWORDS    ENV.
+SOURCE      uncultured Porifera
+  ORGANISM  uncultured Porifera
+            Eukaryota; Metazoa; Porifera; environmental samples.
+REFERENCE   1  (bases 1 to 734)
+  AUTHORS   Peterson,C.L., Pomponi,S.A., McCarthy,P.J., Wright,A.E. and
+            Lopez,J.V.
+  TITLE     Polyketide synthase and fatty acid synthase sequences derived from
+            marine sponges and their microbial symbionts
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 734)
+  AUTHORS   Peterson,C.L., Pomponi,S.A., McCarthy,P.J., Wright,A.E. and
+            Lopez,J.V.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (14-DEC-2004) Division of Biomedical Marine Research,
+            Harbor Branch Oceanographic Institution, 5600 US 1 North, Ft
+            Pierce, FL 34946, USA
+FEATURES             Location/Qualifiers
+     source          1..734
+                     /organism="uncultured Porifera"
+                     /mol_type="genomic DNA"
+                     /db_xref="taxon:315288"
+                     /clone="223I"
+                     /environmental_sample
+     gene            <1..>734
+                     /gene="PKS"
+     mRNA            <1..>734
+                     /gene="PKS"
+                     /product="polyketide synthase"
+     CDS             <1..>734
+                     /gene="PKS"
+                     /codon_start=1
+                     /product="polyketide synthase"
+                     /protein_id="AAX62311.1"
+                     /translation="REALQMDPQQRLLLQCVWPALEKAGYDPQKFANQMKIGCFGGVH
+                     FPSYFLYNGWDTGAALEAGFLQEYEVMVECLGESIALHLGQYLDCRGPCIFVSHTCST
+                     FSAALHYARLSLQGKECDIAVVAGASVSPFDDGYTYTEKGVFSSDGHCRPFSQSATGT
+                     VLSDGLVVAVMRRLSDAESQDDEIVCVVKGSAIGYDGSQSQSRKYAPFKQGQVQTLQQ
+                     AFKSSGISPASVSLVEGHGTGTQLGDP"
+ORIGIN      
+        1 cgggaggcgc tgcaaatgga cccgcagcaa cggttattgc ttcagtgtgt gtggccagca
+       61 cttgaaaagg ctggatatga tcctcaaaaa tttgccaatc aaatgaaaat tggctgcttt
+      121 gggggtgtac acttcccctc ctactttctt tataatgggt gggatactgg agctgcttta
+      181 gaggctggct ttctccagga gtatgaagta atggttgaat gccttggaga aagcattgcc
+      241 ctacaccttg gccagtatct tgactgtaga gggccttgta tctttgtgtc tcacacttgt
+      301 tccacctttt cagctgccct ccattatgcc cggctaagtc tacagggaaa ggaatgtgat
+      361 atcgcagttg tagctggagc atctgtgtct ccatttgatg atggctacac atacactgag
+      421 aaaggtgtgt tctcttctga tgggcactgt cgtcctttct cacaatctgc tactggaaca
+      481 gtgctgtctg atgggctagt tgtagctgtg atgagacgat tatctgatgc tgagtctcag
+      541 gatgatgaaa ttgtctgtgt ggtgaaaggg tctgctattg gttacgatgg ctcacaatcc
+      601 caaagcagga agtatgctcc atttaagcaa ggccaagtac aaacactcca acaggccttt
+      661 aaatcttcag gaatttcccc cgcttcagtt tccctggttg aaggccatgg caccggcacc
+      721 caactcgggg accc
+//
+

@@ -1,0 +1,64 @@
+LOCUS       MH338609                 658 bp    DNA     linear   INV 19-JUN-2018
+DEFINITION  Porifera sp. KSA_1444 cytochrome c oxidase subunit I (COI) gene,
+            partial cds; mitochondrial.
+ACCESSION   MH338609
+VERSION     MH338609.1
+KEYWORDS    .
+SOURCE      mitochondrion Porifera sp. KSA_1444
+  ORGANISM  Porifera sp. KSA_1444
+            Eukaryota; Metazoa; Porifera; unclassified Porifera.
+REFERENCE   1  (bases 1 to 658)
+  AUTHORS   Pearman,J.K., Leray,M., Villalobos,R., Machida,R.J., Berumen,M.L.,
+            Knowlton,N. and Carvalho,S.
+  TITLE     Cross-shelf investigation of coral reef cryptic benthic organisms
+            reveals diversity patterns of the hidden majority
+  JOURNAL   Sci Rep 8 (1), 8090 (2018)
+   PUBMED   29795402
+  REMARK    Publication Status: Online-Only
+REFERENCE   2  (bases 1 to 658)
+  AUTHORS   Villalobos,R., Pearman,J. and Leray,M.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (09-MAY-2018) Biological and Environmental Science and
+            Engineering Division, King Abdullah University of Science and
+            Technology, 4700 KAUST, Thuwal, Makka 23955, KSA
+COMMENT     ##Assembly-Data-START##
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..658
+                     /organism="Porifera sp. KSA_1444"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /specimen_voucher="KSA_1444"
+                     /db_xref="taxon:2229578"
+                     /country="Saudi Arabia"
+                     /lat_lon="22.18 N 38.57 E"
+                     /collection_date="06-May-2015"
+                     /collected_by="R. Villalobos"
+     gene            <1..>658
+                     /gene="COI"
+     CDS             <1..>658
+                     /gene="COI"
+                     /codon_start=2
+                     /transl_table=4
+                     /product="cytochrome c oxidase subunit I"
+                     /protein_id="AWU57034.1"
+                     /translation="TLYLLFGGFAGVVGTAFSVLIRLELSGPGSMLGDDHLYNVIVTA
+                     HAFIMIFFLVMPVMIGGFGNWFVPLSIGAPDMAFPRLNNISFWLLPPALTLLLASAFV
+                     GQGAGTGWTVYPPLSGITGHSGGSVDLVIFSLHLAGISSILGAMNFITTIRNMRAPGM
+                     SFDRVPLFVWSILVTAILLLLSLPVLAGGITMLLTDRNFNTAFFDPAGGGDPVLYQHL
+                     F"
+ORIGIN      
+        1 taccctttat ctattgtttg gggggtttgc gggggtggtg ggtacggcct ttagcgtgtt
+       61 aataaggttg gagttatcgg ggccaggttc aatgttaggt gatgaccatt tatataatgt
+      121 tattgtgacg gctcatgctt ttattatgat ttttttctta gttatgcctg tgatgatagg
+      181 gggatttgga aattggtttg tccctttatc tatcggggcg ccagacatgg cttttccgag
+      241 attgaacaat attagttttt gattactgcc ccccgcttta actttattgc tggcttctgc
+      301 ttttgtcggg caaggggcag gtacggggtg gacagtatac cctcctttat ctggtataac
+      361 ggggcattcg gggggttcgg tggacttggt aatttttagt ctgcatttgg cgggcatttc
+      421 ttcgatatta ggggcgatga attttattac tacaataaga aacatgagag cgccgggcat
+      481 gagctttgac cgggtgccat tatttgtttg atcaatttta gttacggcga tactattatt
+      541 attgtcatta cccgttttag ccggtggaat aactatgtta ttgaccgatc ggaattttaa
+      601 tacggctttt tttgatcccg cggggggagg ggatcccgtt ttgtaccaac atttattt
+//
+

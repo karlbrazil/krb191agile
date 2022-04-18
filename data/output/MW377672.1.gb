@@ -1,0 +1,45 @@
+LOCUS       MW377672                 629 bp    DNA     linear   INV 22-DEC-2020
+DEFINITION  Porifera sp. SI-320H 5.8S ribosomal RNA gene, partial sequence;
+            internal transcribed spacer 2, complete sequence; and large subunit
+            ribosomal RNA gene, partial sequence.
+ACCESSION   MW377672
+VERSION     MW377672.1
+KEYWORDS    .
+SOURCE      Porifera sp. SI-320H
+  ORGANISM  Porifera sp. SI-320H
+            Eukaryota; Metazoa; Porifera; unclassified Porifera.
+REFERENCE   1  (bases 1 to 629)
+  AUTHORS   Mohanty,I., Agarwal,V. and Garg,N.
+  TITLE     Multi-omic profiling of Bromotyrosine sponges
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 629)
+  AUTHORS   Mohanty,I.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (16-DEC-2020) Chemistry & Biochemistry, Georgia Institute
+            of Technology, 901 Atlantic Dr, Atlanta, GA 30332, USA
+COMMENT     ##Assembly-Data-START##
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..629
+                     /organism="Porifera sp. SI-320H"
+                     /mol_type="genomic DNA"
+                     /specimen_voucher="SI-320H-ITS2"
+                     /db_xref="taxon:2797278"
+     misc_RNA        <1..>629
+                     /note="contains 5.8S ribosomal RNA, internal transcribed
+                     spacer 2, and large subunit ribosomal RNA"
+ORIGIN      
+        1 ggcgttctcg ggggtcttcc cgagagcacg tctgctgagt gcccgtttcc tgtggctgct
+       61 gcagttgcgc gcagtggcga gttgaagtgt cgccctgccc acagttgagt ggggcgtcct
+      121 ttgaagggag gcaactgctg caaggtccac atggtgggct tgcgcacgcg actgagccac
+      181 tgtcgtcgtg ccctgccccc ggtcggtgtg tgtccttgcg gattgaaggt atggatgacg
+      241 tagcaccaat gtgggcctca ggtcagatga ggcgacccgc tgaatttaag catattaata
+      301 agcggaggaa aagaaactaa ccaggattcc cccagtagcg gcgagtgaag cgggaacagc
+      361 ccaagcctgt aatctccgat gcgttgcatc ggcgaattgt agtctggaga agggccatcc
+      421 tcgcatcggt cctcccgaag tcgccgagga aaggcgcgcc agagagggtg atagccccgt
+      481 gcgtgggagc gaccgactgt gggactcgag gcctcttcgg agagtcgggt tgtttgggat
+      541 tgcagcccaa agtgggtggt aaactccatc taaggctaaa tactggcaca agaccgatag
+      601 tgaacaagta ccgtgaggga aaggtgaaa
+//
+

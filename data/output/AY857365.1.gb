@@ -1,0 +1,59 @@
+LOCUS       AY857365                 692 bp    DNA     linear   ENV 24-JUL-2018
+DEFINITION  Uncultured Porifera clone 225B polyketide synthase (PKS) gene,
+            partial cds.
+ACCESSION   AY857365
+VERSION     AY857365.1
+KEYWORDS    ENV.
+SOURCE      uncultured Porifera
+  ORGANISM  uncultured Porifera
+            Eukaryota; Metazoa; Porifera; environmental samples.
+REFERENCE   1  (bases 1 to 692)
+  AUTHORS   Peterson,C.L., Pomponi,S.A., McCarthy,P.J., Wright,A.E. and
+            Lopez,J.V.
+  TITLE     Polyketide synthase and fatty acid synthase sequences derived from
+            marine sponges and their microbial symbionts
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 692)
+  AUTHORS   Peterson,C.L., Pomponi,S.A., McCarthy,P.J., Wright,A.E. and
+            Lopez,J.V.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (14-DEC-2004) Division of Biomedical Marine Research,
+            Harbor Branch Oceanographic Institution, 5600 US 1 North, Ft
+            Pierce, FL 34946, USA
+FEATURES             Location/Qualifiers
+     source          1..692
+                     /organism="uncultured Porifera"
+                     /mol_type="genomic DNA"
+                     /db_xref="taxon:315288"
+                     /clone="225B"
+                     /environmental_sample
+     gene            <1..>692
+                     /gene="PKS"
+     mRNA            <1..>692
+                     /gene="PKS"
+                     /product="polyketide synthase"
+     CDS             <1..>692
+                     /gene="PKS"
+                     /codon_start=1
+                     /product="polyketide synthase"
+                     /protein_id="AAX62331.1"
+                     /translation="REALQMAPQQRGLLELAWGSMEDASVSDEHLSQGRTGVFVGVIN
+                     HNYSRLLLSDVGHIGPHTEQGRSARIASNRISYVFNFKGPSLTVDTACSSSLVAADAA
+                     CRSLHSMDCDVAFAGGVNAILLPQSFLEFSPAGMLSVSESCRALNACADGFVRAEGGG
+                     FVLNQTPLRCASCSSRIQPVIASASVNQDGRNGGIMSTNSESQVSMMHQAAERAEIDP
+                     SMIGYVEGPGTG"
+ORIGIN      
+        1 agggaggcgc tgcaaatggc cccgcaacaa cgagggctac tggaactcgc ctggggatcg
+       61 atggaggacg cttcggtatc cgatgagcat ctcagccaag gtcgaacagg agtttttgtc
+      121 ggcgtgatca atcacaacta ctcccggttg ttattgtccg acgtcggaca catcggcccg
+      181 cataccgaac agggacggtc ggccagaatc gcctcgaacc ggatctccta tgtattcaat
+      241 ttcaaaggtc ccagcctgac cgtcgacact gcttgctcat cctccttggt tgcggccgac
+      301 gccgcatgcc gttcattgca ctcgatggac tgcgacgtgg catttgccgg cggggtcaat
+      361 gcgattttac ttccgcaaag ttttctggaa ttctcaccag cgggaatgct gtcagtttcg
+      421 gaaagctgtc gtgcgttaaa tgcgtgcgcg gacggatttg tcagagcgga aggcggtgga
+      481 tttgttctga atcaaacgcc tttgcgatgc gcttcatgtt caagccgcat tcaaccggtc
+      541 atcgcatccg cttcggttaa tcaggacggc agaaacggtg ggatcatgtc gacaaattcc
+      601 gaatcccagg tttcaatgat gcatcaggcg gccgagcgag cggaaattga tccttcaatg
+      661 atcggttatg tggaaggccc cggcaccggc aa
+//
+

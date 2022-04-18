@@ -1,0 +1,47 @@
+LOCUS       MH459164                 581 bp    DNA     linear   INV 21-JUN-2019
+DEFINITION  UNVERIFIED_ORG: Porifera sp. HQ-2018 strain 581F1 small subunit
+            ribosomal RNA gene, partial sequence; internal transcribed spacer
+            1, 5.8S ribosomal RNA gene, and internal transcribed spacer 2,
+            complete sequence; and large subunit ribosomal RNA gene, partial
+            sequence.
+ACCESSION   MH459164
+VERSION     MH459164.1
+KEYWORDS    UNVERIFIED; UNVERIFIED_ORGANISM.
+SOURCE      Porifera sp. HQ-2018
+  ORGANISM  Porifera sp. HQ-2018
+            Eukaryota; Metazoa; Porifera; unclassified Porifera.
+REFERENCE   1  (bases 1 to 581)
+  AUTHORS   Han,Q.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (08-JUN-2018) Renji Hospital, Shanghai Jiao Tong
+            University, Tangqiao, Shanghai, Shanghai 200127, China
+COMMENT     GenBank staff is unable to verify source organism provided by the
+            submitter.
+            
+            ##Assembly-Data-START##
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..581
+                     /organism="Porifera sp. HQ-2018"
+                     /mol_type="genomic DNA"
+                     /strain="581F1"
+                     /db_xref="taxon:2219152"
+                     /country="China"
+     misc_RNA        <1..>581
+                     /note="contains small subunit ribosomal RNA, internal
+                     transcribed spacer 1, 5.8S ribosomal RNA, internal
+                     transcribed spacer 2, and large subunit ribosomal RNA"
+ORIGIN      
+        1 ccgtaggtga acctgcggta aggatcatta ccgagtgagg gccctctggg tccaacctcc
+       61 cacccgtgtt tattttacct tgttgcttcg gcgggcccgc cttaactggc cgccgggggg
+      121 cttacgcccc cgggcccgcg cccgccgaag acaccctcga actctgtctg aagattgtag
+      181 tctgagtgaa aatataaatt tttaaaactt tcaacaacgg atctcttggt tccggcatcg
+      241 atgaagaacg caggaaatgc gatacgtaat gtgaattgca aattcagtga atcatcgagt
+      301 ctttgacgca cattgcgccc cctggtattc cgggggcatg cctgtccgag cgtcatttct
+      361 gccctcaagc acggcttgtg tgttgggccc cgtcctccga tcccggggga cgggcccgaa
+      421 aggcagcggc ggcaccgcgt ccggtcctcg agcgtatggg gctttgtcac ccgctctgta
+      481 ggcccggccg gcgcttgccg atcaacccaa atttttatcc aggttgacct cggatcaggt
+      541 agggataccc gctgaactta agcatatcaa taagcggagg a
+//
+

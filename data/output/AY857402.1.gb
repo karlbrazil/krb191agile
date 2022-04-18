@@ -1,0 +1,59 @@
+LOCUS       AY857402                 707 bp    DNA     linear   ENV 26-JUL-2016
+DEFINITION  Uncultured Porifera clone 228Q fatty acid synthase (FAS) gene,
+            partial cds.
+ACCESSION   AY857402
+VERSION     AY857402.1
+KEYWORDS    ENV.
+SOURCE      uncultured Porifera
+  ORGANISM  uncultured Porifera
+            Eukaryota; Metazoa; Porifera; environmental samples.
+REFERENCE   1  (bases 1 to 707)
+  AUTHORS   Peterson,C.L., Pomponi,S.A., McCarthy,P.J., Wright,A.E. and
+            Lopez,J.V.
+  TITLE     Polyketide synthase and fatty acid synthase sequences derived from
+            marine sponges and their microbial symbionts
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 707)
+  AUTHORS   Peterson,C.L., Pomponi,S.A., McCarthy,P.J., Wright,A.E. and
+            Lopez,J.V.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (14-DEC-2004) Division of Biomedical Marine Research,
+            Harbor Branch Oceanographic Institution, 5600 US 1 North, Ft
+            Pierce, FL 34946, USA
+FEATURES             Location/Qualifiers
+     source          1..707
+                     /organism="uncultured Porifera"
+                     /mol_type="genomic DNA"
+                     /db_xref="taxon:315288"
+                     /clone="228Q"
+                     /environmental_sample
+     gene            <1..>707
+                     /gene="FAS"
+     mRNA            <1..>707
+                     /gene="FAS"
+                     /product="fatty acid synthase"
+     CDS             <1..>707
+                     /gene="FAS"
+                     /codon_start=1
+                     /product="fatty acid synthase"
+                     /protein_id="AAX62368.1"
+                     /translation="REALQMDPQQRILLQLTWEAIEDAGISPETLAGDHVGVYVGASA
+                     LDYANESLFDPNVATGHFMTGNTLSIISNRLSYIFDLKGPSFTVDTACSSSLVALHEA
+                     YRALSSGRIDCAIVAGVNVLASPFPFVGFAQATMLSPDGQCKAFDANGNGYVRSEGGV
+                     ALVIKRKDAPRWKGQRSHADIVAVDVNSDGRTVGMSLPSDVEQANLLDRVYKTHGIDP
+                     NQLAFVEAHGPGTQLGDP"
+ORIGIN      
+        1 agggaggcgc tgcagatgga tccgcaacaa aggatcctct tgcagcttac ttgggaagcg
+       61 attgaagacg ccggtatttc gccggaaact ctggccggag atcacgttgg tgtttatgta
+      121 ggagcgtctg ctctcgatta tgccaacgaa agtctgttcg atccaaacgt cgcaactggt
+      181 cacttcatga ctggtaacac gctttccatt atttcaaatc gcctttctta catctttgat
+      241 ttgaaaggtc cgagctttac agttgatact gcatgctctt cttctcttgt tgcacttcat
+      301 gaagcttatc gggcgctgag ttccggtcgc attgattgcg caatagtggc aggcgttaac
+      361 gtgcttgcca gtccatttcc atttgtcggc tttgcgcaag caaccatgtt gtctccggat
+      421 ggtcagtgta aagctttcga tgccaacggt aatggttacg tgcgctctga aggtggtgtt
+      481 gcactcgtca tcaaacggaa ggacgctccg cgttggaagg gccagcgatc acacgcagat
+      541 atcgttgctg ttgacgtcaa ctctgatgga cgcactgtcg gtatgtccct cccatcagat
+      601 gtggaacaag ccaatctgct tgatcgcgta tataagacgc acggaattga cccaaaccag
+      661 ctcgcatttg ttgaagccca tggccccggc acccagctcg gcgatcc
+//
+

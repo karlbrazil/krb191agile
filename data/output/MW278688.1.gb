@@ -1,0 +1,71 @@
+LOCUS       MW278688                 645 bp    DNA     linear   INV 25-NOV-2020
+DEFINITION  UNVERIFIED_ORG: Tethya sp. JV01 voucher UF:Invertebrate
+            Zoology:3848-Porifera cytochrome c oxidase subunit I (COX1) gene,
+            partial cds; mitochondrial.
+ACCESSION   MW278688
+VERSION     MW278688.1
+DBLINK      BioProject: PRJNA673213
+KEYWORDS    UNVERIFIED; UNVERIFIED_ORGANISM.
+SOURCE      mitochondrion Tethya sp. JV01
+  ORGANISM  Tethya sp. JV01
+            Eukaryota; Metazoa; Porifera; Demospongiae; Heteroscleromorpha;
+            Tethyida; Tethyidae; Tethya; unclassified Tethya.
+REFERENCE   1  (bases 1 to 645)
+  AUTHORS   Paulay,G., Pittman,C., Bemis,A., Marques,A., Slapcinsky,J.,
+            Uyeno,D., Vicente,J., Magalhaes,W. and Craig,C.
+  TITLE     DNA barcoding marine invertebrates of the 2017 MarineGEO Kaneohe
+            Bay BioBlitz
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 645)
+  AUTHORS   Paulay,G., Pittman,C., Bemis,A., Marques,A., Slapcinsky,J.,
+            Uyeno,D., Vicente,J., Magalhaes,W. and Craig,C.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (19-NOV-2020) Laboratories of Analytical Biology,
+            Smithsonian Institution, 10th St. & Constitution Ave. NW,
+            Washington, DC 20560, USA
+COMMENT     GenBank staff is unable to verify source organism provided by the
+            submitter.
+            
+            ##Assembly-Data-START##
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..645
+                     /organism="Tethya sp. JV01"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /specimen_voucher="UF:Invertebrate Zoology:3848-Porifera"
+                     /db_xref="taxon:2790821"
+                     /country="USA: Hawaii, Oahu, Kaneohe Bay, Kaneohe Marine
+                     Corps Base, near airfield"
+                     /lat_lon="21.4521 N 157.7776 W"
+                     /collection_date="30-May-2017"
+                     /PCR_primers="fwd_name: dgLCO1490, fwd_seq:
+                     ggtcaacaaatcataaagayatygg, rev_name: dgHCO2198, rev_seq:
+                     taaacttcagggtgaccaaaraayca"
+     gene            <1..>645
+                     /gene="COX1"
+     CDS             <1..>645
+                     /gene="COX1"
+                     /codon_start=2
+                     /transl_table=4
+                     /product="cytochrome c oxidase subunit I"
+                     /protein_id="QPF69172.1"
+                     /translation="TLYLLFGAFAGMIGTGFSVLIRLELSAPGSMLGDDHLYNVIVTA
+                     HAFVMIFFLVMPVMIGGFGNWFVPLYIGAPDMAFPRLNNISFWLLPPALTLLLGSAFV
+                     EQGAGTGWTVYPPLASIQAHSGGSVDMAIFSLHLAGISSILSTINFITTILNMRAPGI
+                     TMDRMPLFVWSILVTAILLLLSLPVLAGAITMLLTDRNFNTAFFDPAGGGDPIL"
+ORIGIN      
+        1 gactctttat ttattatttg gggcatttgc agggatgata ggaacagggt ttagtgtgtt
+       61 aattcggtta gaattgtctg ccccaggttc aatgttgggg gatgaccatt tgtacaatgt
+      121 tatagtaaca gcgcatgctt ttgttatgat atttttttta gttatgcccg tgatgattgg
+      181 ggggtttgga aattgatttg taccgctata tattggggcg ccggatatgg ctttcccaag
+      241 actaaataat ataagttttt ggttattgcc tcctgcatta actttattgt taggttctgc
+      301 gtttgtagag caaggggcag gaacagggtg gacagtttat ccgccgctag caagtataca
+      361 ggcccattca gggggatctg tagacatggc aatatttagt ttacatttag ccggaatttc
+      421 ttcgattttg agtacaataa attttataac aacaatctta aacatgaggg ccccgggaat
+      481 tacaatggat agaatgccat tatttgtttg atcgattttg gtgaccgcaa tattattgtt
+      541 attgtcattg ccggttttag cgggggcgat tacaatgctt cttacagata gaaattttaa
+      601 tacagctttt tttgatcctg ctgggggagg ggacccaata ttata
+//
+

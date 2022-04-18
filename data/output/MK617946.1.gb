@@ -1,0 +1,55 @@
+LOCUS       MK617946                 878 bp    DNA     linear   INV 26-NOV-2019
+DEFINITION  Ernstia pyrum voucher ZMMU:G-259 18S ribosomal RNA gene, partial
+            sequence; internal transcribed spacer 1, 5.8S ribosomal RNA gene,
+            and internal transcribed spacer 2, complete sequence; and 28S
+            ribosomal RNA gene, partial sequence.
+ACCESSION   MK617946
+VERSION     MK617946.1
+KEYWORDS    .
+SOURCE      Ernstia pyrum
+  ORGANISM  Ernstia pyrum
+            Eukaryota; Metazoa; Porifera; Calcarea; Calcinea; Clathrinida;
+            Clathrinida incertae sedis; Ernstia.
+REFERENCE   1  (bases 1 to 878)
+  AUTHORS   Sanamyan,K., Sanamyan,N., Martynov,A. and Korshunova,T.
+  TITLE     A new species of Ernstia (Porifera: Calcarea) described from marine
+            aquarium
+  JOURNAL   Zootaxa 4603 (1), zootaxa.4603.1.11 (2019)
+   PUBMED   31717247
+  REMARK    Publication Status: Online-Only
+REFERENCE   2  (bases 1 to 878)
+  AUTHORS   Sanamyan,K., Sanamyan,N., Martynov,A. and Korshunova,T.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (11-MAR-2019) Koltzov Institute of Developmental Biology
+            RAS, Vavilova Str. 26, Moscow 119334, Russia
+FEATURES             Location/Qualifiers
+     source          1..878
+                     /organism="Ernstia pyrum"
+                     /mol_type="genomic DNA"
+                     /specimen_voucher="ZMMU:G-259"
+                     /type_material="paratype of Ernstia pyrum"
+                     /type_material="paratype of Ernstia pyrum Sanamyan,
+                     Sanamyan, Martynov & Korshunova, 2019"
+                     /db_xref="taxon:2577047"
+     misc_RNA        <1..>878
+                     /note="contains 18S ribosomal RNA, internal transcribed
+                     spacer 1, 5.8S ribosomal RNA, internal transcribed spacer
+                     2, and 28S ribosomal RNA"
+ORIGIN      
+        1 ccgcccgtcg ctactacccg attgaatggt ttagtgagat cttcggattg tggcaacggg
+       61 ggcctttggt ccctgttgat tacgagaagt tgatcaaact tgatcattta gaggaagtaa
+      121 aagtcgtaac aaggtttccg taggtgaacc tgcggaagga tcattaccga atccgactcc
+      181 ttgtcagaaa tcactgtgca cttggtgcct gttcggcatg tccttcgggg ttggccttgt
+      241 gccattaaat cgttccgacg ctgcaaccgc ccccttttgc tgccttgtga aagggagatt
+      301 tggaagcctg gtcagtcggg ccccgaaggc agtcgtgcag gtgttccttt ttttttcccc
+      361 accctaaacc aagcaaattt gcagactgga ctgtgggctt tcgcgagaaa gcttgtctct
+      421 tgactgaaaa tctgggacaa ctttcaacgg tggatctctt ggctcgtgga tcgatgaaga
+      481 acgcagcaaa acgcgatatg tagtgtgaat tgcagaattc agtgaatcat cgaatctttg
+      541 aacgcaaatg gcgctcctgg gtattcccag gagcatgtct gtctcagtgt cgtttccacc
+      601 tcgagcgcgc tgcggcgcgg aggccttgag gtgtctgggc gcggttgcga gcacagcgtg
+      661 atgcccagtc ccttgaaatg cagtggcctg acagttcccg gcacggctcg ttccggatct
+      721 gttcgcacgg cttgatggtc gctaaaacca ctgtcgtgtc gcaacagccg tgctccgagc
+      781 cggacactgc caacgtcagg gccaatggaa ccctcggcgt gcggcgcttt cagcgttcgc
+      841 gcgacatgtt tgacctgaga tcaggcagga ctacccgc
+//
+

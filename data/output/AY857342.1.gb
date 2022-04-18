@@ -1,0 +1,59 @@
+LOCUS       AY857342                 698 bp    DNA     linear   ENV 24-JUL-2018
+DEFINITION  Uncultured Porifera clone 290M polyketide synthase (PKS) gene,
+            partial cds.
+ACCESSION   AY857342
+VERSION     AY857342.1
+KEYWORDS    ENV.
+SOURCE      uncultured Porifera
+  ORGANISM  uncultured Porifera
+            Eukaryota; Metazoa; Porifera; environmental samples.
+REFERENCE   1  (bases 1 to 698)
+  AUTHORS   Peterson,C.L., Pomponi,S.A., McCarthy,P.J., Wright,A.E. and
+            Lopez,J.V.
+  TITLE     Polyketide synthase and fatty acid synthase sequences derived from
+            marine sponges and their microbial symbionts
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 698)
+  AUTHORS   Peterson,C.L., Pomponi,S.A., McCarthy,P.J., Wright,A.E. and
+            Lopez,J.V.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (14-DEC-2004) Division of Biomedical Marine Research,
+            Harbor Branch Oceanographic Institution, 5600 US 1 North, Ft
+            Pierce, FL 34946, USA
+FEATURES             Location/Qualifiers
+     source          1..698
+                     /organism="uncultured Porifera"
+                     /mol_type="genomic DNA"
+                     /db_xref="taxon:315288"
+                     /clone="290M"
+                     /environmental_sample
+     gene            <1..>698
+                     /gene="PKS"
+     mRNA            <1..>698
+                     /gene="PKS"
+                     /product="polyketide synthase"
+     CDS             <1..>698
+                     /gene="PKS"
+                     /codon_start=1
+                     /product="polyketide synthase"
+                     /protein_id="AAX62308.1"
+                     /translation="REAVQMDPQQRMLLETTWQALEDAGIEPGRLRGSRTGVYAGIGS
+                     SEYRDIIAASGQDDSFLGTAASVAAGRIAFALGLEGPAMPVDMACASSLAAVHQASVA
+                     LMRGEVDLALASGVNATLSQPFVRFHNEMGMLSKAGQCNAFDTAADGFVRSEGCGVVV
+                     LKRLSEAEADGDRIWGIIKGSAINQNGASAGLPVPNGPAQERVIEDALARAGVTAAEV
+                     DYLEAHGPGTQLGDS"
+ORIGIN      
+        1 agggaagcgg tgcaaatgga tccgcaacag cggatgttac ttgagactac ttggcaagcc
+       61 ttggaagatg ccggaataga gccgggaaga ctgaggggca gccgcacggg agtatatgcg
+      121 ggaattggca gcagcgaata cagggacatt atcgcagcca gcgggcaaga tgacagtttc
+      181 ctaggcactg cggcgagtgt ggccgcaggg cgtattgcct tcgctcttgg cttggagggc
+      241 ccggccatgc cggtagatat ggcctgtgct tcatcccttg ccgcagtaca ccaagcgtcg
+      301 gtggccctaa tgcggggtga ggtggacttg gccttggcca gcggagtgaa cgcgacactg
+      361 tcccagccct ttgtcaggtt tcacaatgag atggggatgc tatcgaaggc tgggcagtgc
+      421 aacgctttcg atactgctgc tgacgggttc gttcgcagcg agggttgtgg cgtagtcgtt
+      481 ctgaaacggc tgagtgaggc ggaagccgac ggagaccgca tatggggcat catcaagggg
+      541 tcggctatca atcagaacgg ggctagtgcc gggctgccgg tgcccaacgg gcctgcccaa
+      601 gagcgggtga tagaggatgc cttggcgcgg gcgggagtga ctgccgccga agttgactat
+      661 ctggaagccc atggccccgg cacccaactc ggtgattc
+//
+
